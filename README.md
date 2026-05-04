@@ -15,4 +15,4 @@ By: mot'ya
 **Пример использования:**
 Выбери USD → EUR, введи 100, нажми «Конвертировать». Увидишь результат и запись в истории.
 
-**Ссылка на репозиторий:** https://github.com/твой_логин/currency-converter
+**Ссылка на репозиторий:** https://github.com/baranchikshon-egg/currency-converter
